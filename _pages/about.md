@@ -16,11 +16,11 @@ Haoxiang Cheng received the B.S. degree in systems engineering from the National
 
 Publications
 ======
-* Haoxiang Cheng, Shixuan Liu, Changjun Fan, Kuihua Huang, Hua He, Xianghan Wang. LLM4HIN: Discovering Meta-path with Large Language Model for Reasoning on Complex Heterogeneous Information Networks. IEEE Smart Data. 2024. DOI: 10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics62450.2024.00100. (IEEE会议，最佳论文).
+* Haoxiang Cheng, Shixuan Liu, Changjun Fan, Kuihua Huang, Hua He, Xianghan Wang. LLM4HIN: Discovering Meta-path with Large Language Model for Reasoning on Complex Heterogeneous Information Networks. IEEE Smart Data. 2024. DOI: 10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics62450.2024.00100.
 
-* Shixuan Liu, Haoxiang Cheng, Yunfei Wang, Yue He, Changjun Fan, Zhong Liu.EvoPath: Evolutionary meta-path discovery with large language models for complex heterogeneous information networks. Information Processing & Management. 2025. DOI:10.1016/j.ipm.2024.103920. (共同一作，中科院一区Top，CCF 推荐B 类期刊).
-
-* 程昊翔,龚治兴,王浩铭,等. 基于大语言模型的知识图谱逻辑规则挖掘框架及应用[J]. 指挥与控制学报,2025,11(2): 202-209 (中文核心期刊).
+* Shixuan Liu, Haoxiang Cheng, Yunfei Wang, Yue He, Changjun Fan, Zhong Liu.EvoPath: Evolutionary meta-path discovery with large language models for complex heterogeneous information networks. Information Processing & Management. 2025. DOI:10.1016/j.ipm.2024.103920.
+  
+* 程昊翔,龚治兴,王浩铭,等. 基于大语言模型的知识图谱逻辑规则挖掘框架及应用[J]. 指挥与控制学报,2025,11(2): 202-209.
 
 
 Education
