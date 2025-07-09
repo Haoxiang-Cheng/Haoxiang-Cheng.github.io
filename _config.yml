@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Haoxiang Cheng/Personal Homepage"
+title                    : "Haoxiang Cheng"
 title_separator          : "-"
 name                     : &name "Haoxiang Cheng"
 description              : &description "Master's student in NUDT"
