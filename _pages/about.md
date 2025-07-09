@@ -20,6 +20,8 @@ Publications
 
 * Shixuan Liu, Haoxiang Cheng, Yunfei Wang, Yue He, Changjun Fan, Zhong Liu.EvoPath: Evolutionary meta-path discovery with large language models for complex heterogeneous information networks. Information Processing & Management. 2025. DOI:10.1016/j.ipm.2024.103920. (共同一作，中科院一区Top，CCF 推荐B 类期刊).
 
+* 程昊翔,龚治兴,王浩铭,等. 基于大语言模型的知识图谱逻辑规则挖掘框架及应用[J]. 指挥与控制学报,2025,11(2): 202-209 (中文核心期刊).
+
 
 Education
 ======
