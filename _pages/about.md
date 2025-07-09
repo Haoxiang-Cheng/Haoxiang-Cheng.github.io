@@ -40,6 +40,20 @@ Supervisors
 ======
 *   **Changjun Fan**, Associate Professor, College of Systems Engineering, National University of Defense Technology (NUDT), Changsha, China.
 
+<div align="center">
+  <picture>
+    <!-- 本地路径相对引用 -->
+    <source srcset="/images/people/bio_C_Fan.jpg" media="(min-width: 800px)">
+    <!-- 带安全参数的绝对URL -->
+    <img src="https://github.com/Haoxiang-Cheng/Haoxiang-Cheng.github.io/blob/master/images/people/bio_C_Fan.jpg" 
+         alt="Prof. Changjun Fan" 
+         width="300"
+         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1)">
+  </picture>
+  <br>
+  <strong>Prof. Changjun Fan</strong>
+</div>
+
     ![Prof.Changjun Fan](/images/people/bio_C_Fan.jpg)
     *   *(His research interests include deep graph learning and complex systems, with a special focus on their applications on intelligent decision making.)* [[Google Scholar](https://scholar.google.com/citations?user=1v4qzYsAAAAJ&hl=en)]
 
