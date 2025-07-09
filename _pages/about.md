@@ -71,7 +71,7 @@ Supervisors
   <strong>Prof. Changjun Fan</strong>
 </div>
 
-*   **Changjun Fan**, Associate Professor, College of Systems Engineering, National University of Defense Technology (NUDT), Changsha, China. (His research interests include deep graph learning and complex systems, with a special focus on their applications on intelligent decision making.)* [[Google Scholar](https://scholar.google.com/citations?user=1v4qzYsAAAAJ&hl=en)]
+*   **Changjun Fan**, Associate Professor, College of Systems Engineering, National University of Defense Technology (NUDT), Changsha, China. His research interests include deep graph learning and complex systems, with a special focus on their applications on intelligent decision making. [[Google Scholar](https://scholar.google.com/citations?user=z0Keb0sAAAAJ&hl=zh-CN&oi=ao)]
 
 
 <div align="center">
@@ -88,7 +88,7 @@ Supervisors
   <strong>Dr. Shixuan Liu</strong>
 </div>
 
-*   **Shixuan Liu**,  Ph.D, College of Computer Science and Technology, National University of Defense Technology (NUDT), Changsha, China. His research interests include knowledge graph reasoning and reinforcement learning.
+*   **Shixuan Liu**,  Ph.D, College of Computer Science and Technology, National University of Defense Technology (NUDT), Changsha, China. His research interests include knowledge graph reasoning and reinforcement learning. [[Google Scholar](https://scholar.google.com/citations?user=Ec6IbxsAAAAJ&hl=zh-CN&oi=ao)]
 
 
 <!-- A data-driven personal website
