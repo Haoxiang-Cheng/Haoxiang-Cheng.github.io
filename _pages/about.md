@@ -40,17 +40,17 @@ Supervisors
 ======
 *   **Changjun Fan**, Associate Professor, College of Systems Engineering, National University of Defense Technology (NUDT), Changsha, China.
 
-    `![Prof.Changjun Fan](/images/people/bio_C_Fan.jpg)`
+    ![Prof.Changjun Fan](/images/people/bio_C_Fan.jpg)
     *   *(His research interests include deep graph learning and complex systems, with a special focus on their applications on intelligent decision making.)* [[Google Scholar](https://scholar.google.com/citations?user=1v4qzYsAAAAJ&hl=en)]
 
 *   **Chao Chen**, Professor, College of Systems Engineering, National University of Defense Technology (NUDT), Changsha, China.
     
-     `![Prof. Chao Chen](/images/people/chen_chao.jpg)`
+     ![Prof. Chao Chen](/images/people/chen_chao.jpg)
     *   *( His research interests include Intelligent task planning and image recognition.)*
 
 *   **Shixuan Liu**,  Ph.D, College of Computer Science and Technology, National University of Defense Technology (NUDT), Changsha, China.
 
-    `![Dr. Shixuan Liu](/images/people/bio_S_Liu.jpg)`
+    ![Dr. Shixuan Liu](/images/people/bio_S_Liu.jpg)
     *   *( His research interests include knowledge graph reasoning and reinforcement learning.)  [[Google Scholar](https://scholar.google.com/citations?user=1v4qzYsAAAAJ&hl=en)]
 
 
