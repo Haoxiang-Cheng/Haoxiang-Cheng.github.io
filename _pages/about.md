@@ -38,8 +38,23 @@ Affiliation
 
 Supervisors
 ======
-*   **Changjun Fan**, Associate Professor, College of Systems Engineering, National University of Defense Technology (NUDT), Changsha, China.
 
+  <div align="center">
+  <picture>
+    <!-- 本地路径相对引用 -->
+    <source srcset="/images/people/chen_chao.jpg" media="(min-width: 800px)">
+    <!-- 带安全参数的绝对URL -->
+    <img src="https://github.com/Haoxiang-Cheng/Haoxiang-Cheng.github.io/blob/master/images/people/chen_chao.jpg" 
+         alt="Prof. Chao Chen" 
+         width="300"
+         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1)">
+  </picture>
+  <br>
+  <strong>Prof. Chao Chen </strong>
+</div>
+    *    **Chao Chen**, Professor, College of Systems Engineering, National University of Defense Technology (NUDT), Changsha, China. His research interests include Intelligent task planning and image recognition.
+ 
+    
 <div align="center">
   <picture>
     <!-- 本地路径相对引用 -->
@@ -54,18 +69,24 @@ Supervisors
   <strong>Prof. Changjun Fan</strong>
 </div>
 
-    ![Prof.Changjun Fan](/images/people/bio_C_Fan.jpg)
-    *   *(His research interests include deep graph learning and complex systems, with a special focus on their applications on intelligent decision making.)* [[Google Scholar](https://scholar.google.com/citations?user=1v4qzYsAAAAJ&hl=en)]
+*   **Changjun Fan**, Associate Professor, College of Systems Engineering, National University of Defense Technology (NUDT), Changsha, China. (His research interests include deep graph learning and complex systems, with a special focus on their applications on intelligent decision making.)* [[Google Scholar](https://scholar.google.com/citations?user=1v4qzYsAAAAJ&hl=en)]
 
-*   **Chao Chen**, Professor, College of Systems Engineering, National University of Defense Technology (NUDT), Changsha, China.
-    
-     ![Prof. Chao Chen](/images/people/chen_chao.jpg)
-    *   *( His research interests include Intelligent task planning and image recognition.)*
 
-*   **Shixuan Liu**,  Ph.D, College of Computer Science and Technology, National University of Defense Technology (NUDT), Changsha, China.
+<div align="center">
+  <picture>
+    <!-- 本地路径相对引用 -->
+    <source srcset="/images/people/bio_S_Liu.jpg" media="(min-width: 800px)">
+    <!-- 带安全参数的绝对URL -->
+    <img src="https://github.com/Haoxiang-Cheng/Haoxiang-Cheng.github.io/blob/master/images/people/bio_S_Liu.jpg" 
+         alt="Dr. Shixuan Liu" 
+         width="300"
+         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1)">
+  </picture>
+  <br>
+  <strong>Dr. Shixuan Liu</strong>
+</div>
 
-    ![Dr. Shixuan Liu](/images/people/bio_S_Liu.jpg)
-    *   *( His research interests include knowledge graph reasoning and reinforcement learning.)  [[Google Scholar](https://scholar.google.com/citations?user=1v4qzYsAAAAJ&hl=en)]
+*   **Shixuan Liu**,  Ph.D, College of Computer Science and Technology, National University of Defense Technology (NUDT), Changsha, China. His research interests include knowledge graph reasoning and reinforcement learning.
 
 
 <!-- A data-driven personal website
