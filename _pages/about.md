@@ -52,7 +52,9 @@ Supervisors
   <br>
   <strong>Prof. Chao Chen </strong>
 </div>
-    *    **Chao Chen**, Professor, College of Systems Engineering, National University of Defense Technology (NUDT), Changsha, China. His research interests include Intelligent task planning and image recognition.
+
+
+*    **Chao Chen**, Professor, College of Systems Engineering, National University of Defense Technology (NUDT), Changsha, China. His research interests include Intelligent task planning and image recognition.
  
     
 <div align="center">
