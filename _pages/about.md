@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Haoxiang Cheng"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,51 @@ redirect_from:
 ---
 Haoxiang Cheng received the B.S. degree in systems engineering from the National University of Defense Technology, Changsha, China, in 2024, where he is currently pursuing the master’s degree. His research interests include large language models and knowledge reasoning.
 
-A data-driven personal website
+<!-- Research Interests
+======
+*   **2020 - 2024:** B.Eng. in Systems Engineering, College of Systems Engineering, **National University of Defense Technology (NUDT)**, Changsha, China.
+*   **Sep. 2024 - Present:** M.Sc. Candidate in Management Science and Engineering, College of Systems Engineering, **National University of Defense Technology (NUDT)**, Changsha, China. -->
+
+
+Publications
+======
+* Haoxiang Cheng, Shixuan Liu, Changjun Fan, Kuihua Huang, Hua He, Xianghan Wang. LLM4HIN: Discovering Meta-path with Large Language Model for Reasoning on Complex Heterogeneous Information Networks. IEEE Smart Data. 2024. DOI: 10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics62450.2024.00100. (IEEE会议，最佳论文).
+
+* Shixuan Liu, Haoxiang Cheng, Yunfei Wang, Yue He, Changjun Fan, Zhong Liu.EvoPath: Evolutionary meta-path discovery with large language models for complex heterogeneous information networks. Information Processing & Management. 2025. DOI:10.1016/j.ipm.2024.103920. (共同一作，中科院一区Top，CCF 推荐B 类期刊).
+
+
+Education
+======
+*   **2020 - 2024:** B.Eng. in Systems Engineering, College of Systems Engineering, **National University of Defense Technology (NUDT)**, Changsha, China.
+*   **Sep. 2024 - Present:** M.Sc. Candidate in Management Science and Engineering, College of Systems Engineering, **National University of Defense Technology (NUDT)**, Changsha, China.
+
+Academic Positions
+======
+*   **2020 - Present:** Student Research Trainee, College of Systems Engineering, National University of Defense Technology (NUDT), Changsha, China.
+
+Affiliation
+======
+*   Master's Student, **Key Laboratory of Big Data and Decision**, College of Systems Engineering, National University of Defense Technology (NUDT), Changsha, China.
+
+Supervisors
+======
+*   **Changjun Fan**, Associate Professor, College of Systems Engineering, National University of Defense Technology (NUDT), Changsha, China.
+
+    `![Prof.Changjun Fan](images\people\bio_C_Fan.jpg)`
+    *   *(His research interests include deep graph learning and complex systems, with a special focus on their applications on intelligent decision making.)* [[Google Scholar](https://scholar.google.com/citations?user=1v4qzYsAAAAJ&hl=en)]
+
+*   **Chao Chen**, Professor, College of Systems Engineering, National University of Defense Technology (NUDT), Changsha, China.
+    
+     `![Prof. Chao Chen](images\people\chen_chao.jpg)`
+    *   *( His research interests include Intelligent task planning and image recognition.)*
+
+*   **Shixuan Liu**,  Ph.D, College of Computer Science and Technology, National University of Defense Technology (NUDT), Changsha, China.
+
+    `![Dr. Shixuan Liu](images\people\bio_S_Liu.jpg)`
+    *   *( His research interests include knowledge graph reasoning and reinforcement learning.)  [[Google Scholar](https://scholar.google.com/citations?user=1v4qzYsAAAAJ&hl=en)]
+
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -50,4 +94,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
