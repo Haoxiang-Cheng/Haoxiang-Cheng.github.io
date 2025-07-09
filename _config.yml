@@ -13,7 +13,7 @@ title                    : "Haoxiang Cheng"
 title_separator          : "-"
 name                     : &name "Haoxiang Cheng"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      :"https://Haoxiang-Cheng.github.io"  https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Master's student"
   location         : "Changsha, hunan Province, China"
   employer         : "National University of Defense Technology"
-  uri              : "https://chxgithub2002.github.io"
+  uri              : "https://Haoxiang-Cheng.github.io"
   email            : "hx_chenggfkd@nudt.edu.cn" 
 
   # Academic websites
